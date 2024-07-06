@@ -94,7 +94,7 @@ Now the time has come to launch our first EC2 instance using AWS ECS. To begin w
 
 5. **Run instance by triggering the created task** — After doing all the above steps successfully, we are now at the stage of triggering our created task by entering into the cluster. After running our task we can check in the EC2 console whether our created instance is running or not.
 
-## Congratulazioni! 🙂
+## Congratulation! 🙂
 _*We have Successfully deployed our Django Application on AWS cloud using ECS and ECR.*_
 
 As a Page of victory, check if the Django application is running correctly or not by navigating to the public DNS of the instance in the browser.
